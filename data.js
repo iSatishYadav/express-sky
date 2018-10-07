@@ -7,12 +7,15 @@ let store = {
       description: 'This essay will give you a quick introduction to ES6. If you don’t know what is ES6, it’s a new JavaScript implementation.',
       comments: [
         {
+          id: 1,
           text: 'Cruel…..var { house, mouse} = No type optimization at all'
         },
         {
+          id: 2,
           text: 'I think you’re undervaluing the benefit of ‘let’ and ‘const’.'
         },
         {
+          id: 3,
           text: '(p1,p2)=>{ … } ,i understand this ,thank you !'
         }
       ]
