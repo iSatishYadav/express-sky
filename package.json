@@ -18,7 +18,7 @@
   "homepage": "https://github.com/iSatishYadav/express-sky#readme",
   "dependencies": {
     "body-parser": "1.18.3",
-    "express": "4.16.3"
+    "express": "4.21.0"
   },
   "devDependencies": {
     "node-dev": "3.1.3"
